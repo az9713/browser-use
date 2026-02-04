@@ -1,0 +1,36 @@
+{
+  "name": "browser-use",
+  "version": "1.0.0",
+  "description": "35 browser automation primitives for agentic workflows and computer-use systems",
+  "type": "module",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "start": "echo 'Run individual apps with: node apps/XX-app-name/index.js'"
+  },
+  "keywords": [
+    "browser-automation",
+    "computer-use",
+    "ai-agents",
+    "agentic-workflows",
+    "cdp",
+    "chrome-devtools-protocol",
+    "web-automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/az9713/browser-use.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
