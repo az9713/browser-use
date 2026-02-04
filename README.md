@@ -1,4 +1,4 @@
-# browser-use
+# browser-use-toolbox
 
 **35 ready-to-use browser automation primitives for agentic workflows.**
 
@@ -6,7 +6,7 @@ Build AI agents that browse the web. This toolkit provides the low-level buildin
 
 ---
 
-## 🤖 Why browser-use?
+## 🤖 Why browser-use-toolbox?
 
 Modern AI agents need to interact with the web like humans do. This project provides:
 
@@ -32,7 +32,7 @@ Download from https://nodejs.org (LTS version)
 
 ### 2. Install dependencies
 ```bash
-cd browser-use
+cd browser-use-toolbox
 npm install
 ```
 

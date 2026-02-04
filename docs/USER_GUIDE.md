@@ -2,7 +2,7 @@
 
 A complete guide for users new to browser automation and agentic workflows.
 
-**browser-use** provides 35 ready-to-use modules for controlling Chrome programmatically — the building blocks for AI agents, automation scripts, and computer-use systems.
+**browser-use-toolbox** provides 35 ready-to-use modules for controlling Chrome programmatically — the building blocks for AI agents, automation scripts, and computer-use systems.
 
 ---
 
@@ -184,7 +184,7 @@ If Chrome isn't installed:
 **Option A: Using Git (if installed)**
 ```bash
 git clone <repository-url>
-cd browser-use
+cd browser-use-toolbox
 ```
 
 **Option B: Download ZIP**
@@ -193,7 +193,7 @@ cd browser-use
 3. Open a terminal/command prompt and navigate to that folder:
 
 ```bash
-cd browser-use
+cd browser-use-toolbox
 ```
 
 ### Step 4.5: Install Project Dependencies
@@ -306,7 +306,7 @@ Let's run the simplest application first.
 
 **Step 3:** Navigate to the project folder:
 ```bash
-cd browser-use
+cd browser-use-toolbox
 ```
 
 **Step 4:** Run the navigator app:
@@ -559,7 +559,7 @@ Error: Cannot find module 'ws'
 
 **Solution:**
 ```bash
-cd browser-use
+cd browser-use-toolbox
 npm install
 ```
 

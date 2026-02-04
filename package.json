@@ -1,5 +1,5 @@
 {
-  "name": "browser-use",
+  "name": "browser-use-toolbox",
   "version": "1.0.0",
   "description": "35 browser automation primitives for agentic workflows and computer-use systems",
   "type": "module",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/az9713/browser-use.git"
+    "url": "git+https://github.com/az9713/browser-use-toolbox.git"
   },
   "author": "",
   "license": "MIT",

@@ -36,7 +36,7 @@ Download from: https://google.com/chrome (if not already installed)
 Open a terminal in the project folder and run:
 
 ```bash
-cd browser-use
+cd browser-use-toolbox
 npm install
 ```
 
@@ -154,7 +154,7 @@ http://localhost:9222/json/version
 Open a **new terminal window** (keep Chrome running!) and run:
 
 ```bash
-cd browser-use
+cd browser-use-toolbox
 node apps/01-navigator/index.js
 ```
 

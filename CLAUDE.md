@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**browser-use** — 35 standalone Node.js modules providing browser automation primitives for agentic workflows and computer-use systems.
+**browser-use-toolbox** — 35 standalone Node.js modules providing browser automation primitives for agentic workflows and computer-use systems.
 
 This toolkit is designed for building AI agents that interact with the web. Each module demonstrates a specific browser capability (clicking, typing, screenshots, etc.) that can be integrated into agent loops.
 
@@ -51,7 +51,7 @@ If Chrome is already running, new instances join the existing process and **igno
 ## Project Structure
 
 ```
-browser-use/
+browser-use-toolbox/
 ├── package.json           # Root package (ES modules, "ws" dependency)
 ├── shared/                # Core utilities used by all apps
 │   ├── cdp-client.js      # WebSocket CDP client

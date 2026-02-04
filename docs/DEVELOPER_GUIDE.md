@@ -1,6 +1,6 @@
 # Developer Guide
 
-A comprehensive guide for developers who want to understand, modify, and extend the browser-use project.
+A comprehensive guide for developers who want to understand, modify, and extend the browser-use-toolbox project.
 
 ---
 
@@ -110,10 +110,10 @@ Download from https://www.google.com/chrome/ if not already installed.
 ```bash
 # If you have git:
 git clone <repository-url>
-cd browser-use
+cd browser-use-toolbox
 
 # Or download and extract the ZIP file, then:
-cd browser-use
+cd browser-use-toolbox
 ```
 
 ### Step 3.4: Install Project Dependencies
@@ -275,7 +275,7 @@ await client.send('Network.enable'); // Start receiving Network events
 ### Directory Structure
 
 ```
-browser-use/
+browser-use-toolbox/
 ├── package.json              # Project configuration
 ├── CLAUDE.md                 # AI assistant guidance
 ├── README.md                 # Project overview
